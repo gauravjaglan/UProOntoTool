@@ -1,0 +1,23 @@
+<User xmlns="http://example.org">
+<name>Gaurav Jaglan</name>
+<Year>2012</Year>
+<Branch>CSE</Branch>
+<School>USICT</School>
+<Course>B.Tech</Course>
+<Entity1>
+	<label>L1</label>
+	<category>C1</category>
+	<FreebaseID>F1</FreebaseID>
+	<WikiLink>W1</WikiLink>
+	<YVID>Y1</YVID>
+</Entity1>
+
+<Entity2>
+	<label>L2</label>
+	<category>C2</category>
+	<FreebaseID>F2</FreebaseID>
+	<WikiLink>W2</WikiLink>
+	<YVID>Y2</YVID>
+</Entity2>
+
+</User>

@@ -1,0 +1,600 @@
+﻿@kjaskdjla Gaurav wants to learn machine learning in the course of Masters in Science in delhi University. 
+ -------------------------------------------------------
+Matched Entity ID:        Delhi
+Freebase Entity ID:       /m/09f07
+DBPedia Entity Type:      [Place, PopulatedPlace, Settlement, City]
+Wikidata Entity ID:       Q1353
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Delhi
+Freebase Entity Type:     [/location/in_union_territory, /government/governmental_jurisdiction, /organization/contact_category, /periodicals/newspaper_circulation_area, /travel/travel_destination, /location/location, /military/military_post, /location/administrative_division, /location/dated_location, /location/in_state, /location/statistical_region, /film/film_location, /law/court_jurisdiction_area, /organization/organization_scope]
+Matched words:            [com.textrazor.annotations.Word@255b53dc]
+Source Entity:            delhi
+
+Matched Entity ID:        University of Delhi
+Freebase Entity ID:       /m/050xpd
+DBPedia Entity Type:      [Agent, Organisation, EducationalInstitution, University]
+Wikidata Entity ID:       Q665105
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/University_of_Delhi
+Freebase Entity Type:     [/business/employer, /education/educational_institution, /education/educational_institution_campus, /location/location, /education/university, /organization/organization]
+Matched words:            [com.textrazor.annotations.Word@255b53dc, com.textrazor.annotations.Word@1dd92fe2]
+Source Entity:            delhi University
+
+Matched Entity ID:        Machine learning
+Freebase Entity ID:       /m/01hyh_
+DBPedia Entity Type:      null
+Wikidata Entity ID:       Q2539
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Machine_learning
+Freebase Entity Type:     [/computer/software_genre, /education/field_of_study, /book/book_subject]
+Matched words:            [com.textrazor.annotations.Word@6b53e23f, com.textrazor.annotations.Word@64d2d351]
+Source Entity:            machine learning
+
+Matched Entity ID:        Science
+Freebase Entity ID:       /m/06mq7
+DBPedia Entity Type:      null
+Wikidata Entity ID:       Q336
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Science
+Freebase Entity Type:     [/award/award_discipline, /radio/radio_subject, /book/periodical_subject, /media_common/quotation_subject, /internet/website_category, /education/field_of_study, /theater/theater_genre, /organization/organization_sector, /book/book_subject, /media_common/literary_genre, /film/film_genre, /media_common/netflix_genre, /film/film_subject, /broadcast/genre, /tv/tv_subject, /tv/tv_genre, /media_common/media_genre]
+Matched words:            [com.textrazor.annotations.Word@1b68b9a4]
+Source Entity:            Science
+
+Matched Entity ID:        Gaurav
+Freebase Entity ID:       null
+DBPedia Entity Type:      [Person]
+Wikidata Entity ID:       null
+WikiPedia Entity URL:     
+Freebase Entity Type:     [/people/person]
+Matched words:            [com.textrazor.annotations.Word@4f9a3314]
+Source Entity:            Gaurav
+
+Education in Germany will be very good
+ -------------------------------------------------------
+Matched Entity ID:        Germany
+Freebase Entity ID:       /m/0345h
+DBPedia Entity Type:      [Place, PopulatedPlace, Country]
+Wikidata Entity ID:       Q183
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Germany
+Freebase Entity Type:     [/periodicals/newspaper_circulation_area, /film/film_location, /organization/organization_member, /business/business_location, /symbols/name_source, /location/dated_location, /military/military_combatant, /religion/religious_leadership_jurisdiction, /military/military_post, /organization/organization_scope, /organization/contact_category, /symbols/flag_referent, /government/governmental_jurisdiction, /organization/organization_founder, /travel/travel_destination, /location/administrative_division, /cvg/computer_game_region, /fictional_universe/fictional_setting, /location/country, /food/beer_country_region, /government/political_district, /media_common/netflix_genre, /sports/sport_country, /location/statistical_region, /exhibitions/exhibition_venue, /sports/sports_team_location, /broadcast/tv_station_owner, /olympics/olympic_participating_country, /biology/breed_origin, /business/employer, /book/book_subject, /location/location]
+Matched words:            [com.textrazor.annotations.Word@491666ad]
+Source Entity:            Germany
+
+Matched Entity ID:        Education in Germany
+Freebase Entity ID:       /m/0118fqtj
+DBPedia Entity Type:      null
+Wikidata Entity ID:       Q167448
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Education_in_Germany
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@176d53b2, com.textrazor.annotations.Word@971d0d8, com.textrazor.annotations.Word@491666ad]
+Source Entity:            Education in Germany
+
+@UnboxTherapy I have the Motorola moto x play, thinking of getting the S9. good idea?
+ -------------------------------------------------------
+Matched Entity ID:        Motorola Moto
+Freebase Entity ID:       /m/0100fwvq
+DBPedia Entity Type:      null
+Wikidata Entity ID:       Q16877475
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Motorola_Moto
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@2b4a2ec7, com.textrazor.annotations.Word@564718df, com.textrazor.annotations.Word@51b7e5df]
+Source Entity:            Motorola moto x
+
+Matched Entity ID:        Moto X Play
+Freebase Entity ID:       
+DBPedia Entity Type:      [Device]
+Wikidata Entity ID:       Q20869970
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Moto_X_Play
+Freebase Entity Type:     [/business/consumer_product]
+Matched words:            [com.textrazor.annotations.Word@564718df, com.textrazor.annotations.Word@51b7e5df, com.textrazor.annotations.Word@18a70f16]
+Source Entity:            moto x play
+
+Matched Entity ID:        Motorola Mobility
+Freebase Entity ID:       /m/08v9g7
+DBPedia Entity Type:      [Agent, Organisation, Company]
+Wikidata Entity ID:       Q934853
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Motorola_Mobility
+Freebase Entity Type:     [/organization/organization, /business/consumer_company, /business/acquisition, /law/litigant, /computer/computer_manufacturer_brand, /business/employer, /business/business_operation]
+Matched words:            [com.textrazor.annotations.Word@2b4a2ec7]
+Source Entity:            Motorola
+
+US-Deals Cars Motorola Turbo 25W Dual Port Rapid Car Charger For DROID, TURBO2, MOTO X,Nexus: $16.99 End Date: Wedn… https://t.co/Ek9MSPoeYU
+ -------------------------------------------------------
+Matched Entity ID:        16.99
+Freebase Entity ID:       null
+DBPedia Entity Type:      [Money]
+Wikidata Entity ID:       null
+WikiPedia Entity URL:     
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@6279cee3, com.textrazor.annotations.Word@4206a205]
+Source Entity:            $16.99
+
+Matched Entity ID:        Car
+Freebase Entity ID:       /m/0k4j
+DBPedia Entity Type:      null
+Wikidata Entity ID:       Q1420
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Car
+Freebase Entity Type:     [/radio/radio_subject, /tv/tv_genre, /amusement_parks/ride_theme, /book/periodical_subject, /internet/website_category, /media_common/quotation_subject, /media_common/media_genre, /law/invention, /visual_art/visual_art_medium, /film/film_subject, /travel/transportation_mode, /organization/organization_sector, /book/book_subject, /business/product_category, /exhibitions/exhibition_subject, /interests/collection_category]
+Matched words:            [com.textrazor.annotations.Word@29ba4338]
+Source Entity:            Car
+
+Matched Entity ID:        https://t.co/Ek9MSPoeYU
+Freebase Entity ID:       null
+DBPedia Entity Type:      [URL]
+Wikidata Entity ID:       null
+WikiPedia Entity URL:     
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@57175e74]
+Source Entity:            https://t.co/Ek9MSPoeYU
+
+Matched Entity ID:        TURBO2
+Freebase Entity ID:       null
+DBPedia Entity Type:      [Company]
+Wikidata Entity ID:       null
+WikiPedia Entity URL:     
+Freebase Entity Type:     [/organization/organization]
+Matched words:            [com.textrazor.annotations.Word@7bb58ca3]
+Source Entity:            TURBO2
+
+Matched Entity ID:        Motorola Turbo
+Freebase Entity ID:       null
+DBPedia Entity Type:      [Company]
+Wikidata Entity ID:       null
+WikiPedia Entity URL:     
+Freebase Entity Type:     [/organization/organization]
+Matched words:            [com.textrazor.annotations.Word@c540f5a, com.textrazor.annotations.Word@770c2e6b]
+Source Entity:            Motorola Turbo
+
+Matched Entity ID:        Car
+Freebase Entity ID:       /m/0k4j
+DBPedia Entity Type:      null
+Wikidata Entity ID:       Q1420
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Car
+Freebase Entity Type:     [/radio/radio_subject, /tv/tv_genre, /amusement_parks/ride_theme, /book/periodical_subject, /internet/website_category, /media_common/quotation_subject, /media_common/media_genre, /law/invention, /visual_art/visual_art_medium, /film/film_subject, /travel/transportation_mode, /organization/organization_sector, /book/book_subject, /business/product_category, /exhibitions/exhibition_subject, /interests/collection_category]
+Matched words:            [com.textrazor.annotations.Word@1a052a00]
+Source Entity:            Cars
+
+Matched Entity ID:        Motorola Moto
+Freebase Entity ID:       /m/0100fwvq
+DBPedia Entity Type:      null
+Wikidata Entity ID:       Q16877475
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Motorola_Moto
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@4d826d77, com.textrazor.annotations.Word@61009542]
+Source Entity:            MOTO X
+
+@MotorolaHistory I see my very first cell phone, Motorola V60 in this photo, as well as a few DROIDs and some Moto X's and Z's
+ -------------------------------------------------------
+Matched Entity ID:        Mobile phone
+Freebase Entity ID:       /m/050k8
+DBPedia Entity Type:      null
+Wikidata Entity ID:       Q17517
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Mobile_phone
+Freebase Entity Type:     [/law/invention, /business/product_category, /award/ranked_item, /organization/contact_category, /book/book_subject, /organization/organization_sector, /cvg/cvg_platform]
+Matched words:            [com.textrazor.annotations.Word@448ff1a8, com.textrazor.annotations.Word@1a38c59b]
+Source Entity:            cell phone
+
+Matched Entity ID:        Motorola V60
+Freebase Entity ID:       null
+DBPedia Entity Type:      [Company]
+Wikidata Entity ID:       null
+WikiPedia Entity URL:     
+Freebase Entity Type:     [/organization/organization]
+Matched words:            [com.textrazor.annotations.Word@7f77e91b, com.textrazor.annotations.Word@44a664f2]
+Source Entity:            Motorola V60
+
+Matched Entity ID:        Motorola Droid
+Freebase Entity ID:       /m/080k_3m
+DBPedia Entity Type:      [Device]
+Wikidata Entity ID:       Q579988
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Motorola_Droid
+Freebase Entity Type:     [/business/consumer_product]
+Matched words:            [com.textrazor.annotations.Word@7f9fcf7f]
+Source Entity:            DROIDs
+
+Matched Entity ID:        Moto X (1st generation)
+Freebase Entity ID:       /m/0vxfvd0
+DBPedia Entity Type:      [Device]
+Wikidata Entity ID:       Q14173241
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Moto_X_(1st_generation)
+Freebase Entity Type:     [/business/consumer_product]
+Matched words:            [com.textrazor.annotations.Word@2357d90a, com.textrazor.annotations.Word@6328d34a]
+Source Entity:            Moto X
+
+ICYMI: motorola moto x play Smart Phone: £71.42 (10 Bids) End Date: Tuesday Feb-27-2018 20:46:28 GMT Bid now | Add… https://t.co/gB2OvBs67O
+ -------------------------------------------------------
+Matched Entity ID:        https://t.co/gB2OvBs67O
+Freebase Entity ID:       null
+DBPedia Entity Type:      [URL]
+Wikidata Entity ID:       null
+WikiPedia Entity URL:     
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@15bb6bea]
+Source Entity:            https://t.co/gB2OvBs67O
+
+Matched Entity ID:        71.42
+Freebase Entity ID:       null
+DBPedia Entity Type:      [Money]
+Wikidata Entity ID:       null
+WikiPedia Entity URL:     
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@8b96fde, com.textrazor.annotations.Word@2d2e5f00]
+Source Entity:            £71.42
+
+Matched Entity ID:        Motorola Mobility
+Freebase Entity ID:       /m/08v9g7
+DBPedia Entity Type:      [Agent, Organisation, Company]
+Wikidata Entity ID:       Q934853
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Motorola_Mobility
+Freebase Entity Type:     [/organization/organization, /business/consumer_company, /business/acquisition, /law/litigant, /computer/computer_manufacturer_brand, /business/employer, /business/business_operation]
+Matched words:            [com.textrazor.annotations.Word@4c40b76e]
+Source Entity:            motorola
+
+Matched Entity ID:        Moto X Play
+Freebase Entity ID:       
+DBPedia Entity Type:      [Device]
+Wikidata Entity ID:       Q20869970
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Moto_X_Play
+Freebase Entity Type:     [/business/consumer_product]
+Matched words:            [com.textrazor.annotations.Word@2ea6137, com.textrazor.annotations.Word@41ee392b, com.textrazor.annotations.Word@1e67a849]
+Source Entity:            moto x play
+
+Matched Entity ID:        Greenwich Mean Time
+Freebase Entity ID:       /m/03bdv
+DBPedia Entity Type:      null
+Wikidata Entity ID:       Q30192
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Greenwich_Mean_Time
+Freebase Entity Type:     [/time/time_zone]
+Matched words:            [com.textrazor.annotations.Word@57d5872c]
+Source Entity:            GMT
+
+Matched Entity ID:        Smartphone
+Freebase Entity ID:       /m/0169zh
+DBPedia Entity Type:      null
+Wikidata Entity ID:       Q22645
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Smartphone
+Freebase Entity Type:     [/book/book_subject, /computer/computing_platform, /business/product_category, /business/competitive_space, /cvg/cvg_platform, /internet/website_category]
+Matched words:            [com.textrazor.annotations.Word@667a738, com.textrazor.annotations.Word@36f0f1be]
+Source Entity:            Smart Phone
+
+Matched Entity ID:        Motorola Moto
+Freebase Entity ID:       /m/0100fwvq
+DBPedia Entity Type:      null
+Wikidata Entity ID:       Q16877475
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Motorola_Moto
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@4c40b76e, com.textrazor.annotations.Word@2ea6137, com.textrazor.annotations.Word@41ee392b]
+Source Entity:            motorola moto x
+
+Matched Entity ID:        Moto X (1st generation)
+Freebase Entity ID:       /m/0vxfvd0
+DBPedia Entity Type:      [Device]
+Wikidata Entity ID:       Q14173241
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Moto_X_(1st_generation)
+Freebase Entity Type:     [/business/consumer_product]
+Matched words:            [com.textrazor.annotations.Word@2ea6137, com.textrazor.annotations.Word@41ee392b]
+Source Entity:            moto x
+
+Matched Entity ID:        10
+Freebase Entity ID:       null
+DBPedia Entity Type:      [Number]
+Wikidata Entity ID:       null
+WikiPedia Entity URL:     
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@157632c9]
+Source Entity:            10
+
+Motorola XT1060 Moto X Verizon Wireless 16GB Android Smartphone Multiple Colors | https://t.co/WW3FtD8sDb | https://t.co/KUKz2ec1LQ
+ -------------------------------------------------------
+Matched Entity ID:        https://t.co/WW3FtD8sDb
+Freebase Entity ID:       null
+DBPedia Entity Type:      [URL]
+Wikidata Entity ID:       null
+WikiPedia Entity URL:     
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@55040f2f]
+Source Entity:            https://t.co/WW3FtD8sDb
+
+Matched Entity ID:        Moto X (1st generation)
+Freebase Entity ID:       /m/0vxfvd0
+DBPedia Entity Type:      [Device]
+Wikidata Entity ID:       Q14173241
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Moto_X_(1st_generation)
+Freebase Entity Type:     [/business/consumer_product]
+Matched words:            [com.textrazor.annotations.Word@64c87930, com.textrazor.annotations.Word@400cff1a]
+Source Entity:            Moto X
+
+Matched Entity ID:        Motorola Mobility
+Freebase Entity ID:       /m/08v9g7
+DBPedia Entity Type:      [Agent, Organisation, Company]
+Wikidata Entity ID:       Q934853
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Motorola_Mobility
+Freebase Entity Type:     [/organization/organization, /business/consumer_company, /business/acquisition, /law/litigant, /computer/computer_manufacturer_brand, /business/employer, /business/business_operation]
+Matched words:            [com.textrazor.annotations.Word@64c87930]
+Source Entity:            Moto
+
+Matched Entity ID:        https://t.co/KUKz2ec1LQ
+Freebase Entity ID:       null
+DBPedia Entity Type:      [URL]
+Wikidata Entity ID:       null
+WikiPedia Entity URL:     
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@275710fc]
+Source Entity:            https://t.co/KUKz2ec1LQ
+
+Matched Entity ID:        Verizon Wireless
+Freebase Entity ID:       /m/04mxngz
+DBPedia Entity Type:      [Agent, Organisation, Company]
+Wikidata Entity ID:       Q919641
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Verizon_Wireless
+Freebase Entity Type:     [/business/business_location, /organization/organization, /business/employer, /business/business_operation, /business/consumer_company, /business/consumer_product]
+Matched words:            [com.textrazor.annotations.Word@525f1e4e, com.textrazor.annotations.Word@75f9eccc]
+Source Entity:            Verizon Wireless
+
+Matched Entity ID:        Wireless
+Freebase Entity ID:       /m/019dhf
+DBPedia Entity Type:      null
+Wikidata Entity ID:       Q249
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Wireless
+Freebase Entity Type:     [/award/award_category, /business/industry, /organization/organization_sector, /book/book_subject]
+Matched words:            [com.textrazor.annotations.Word@75f9eccc]
+Source Entity:            Wireless
+
+Matched Entity ID:        Android (operating system)
+Freebase Entity ID:       /m/02wxtgw
+DBPedia Entity Type:      [Work, Software]
+Wikidata Entity ID:       Q94
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Android_(operating_system)
+Freebase Entity Type:     [/computer/operating_system, /business/brand, /tv/tv_subject, /computer/software, /cvg/cvg_platform]
+Matched words:            [com.textrazor.annotations.Word@52aa2946]
+Source Entity:            Android
+
+Matched Entity ID:        Smartphone
+Freebase Entity ID:       /m/0169zh
+DBPedia Entity Type:      null
+Wikidata Entity ID:       Q22645
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Smartphone
+Freebase Entity Type:     [/book/book_subject, /computer/computing_platform, /business/product_category, /business/competitive_space, /cvg/cvg_platform, /internet/website_category]
+Matched words:            [com.textrazor.annotations.Word@4de5031f]
+Source Entity:            Smartphone
+
+Matched Entity ID:        Motorola Mobility
+Freebase Entity ID:       /m/08v9g7
+DBPedia Entity Type:      [Agent, Organisation, Company]
+Wikidata Entity ID:       Q934853
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Motorola_Mobility
+Freebase Entity Type:     [/organization/organization, /business/consumer_company, /business/acquisition, /law/litigant, /computer/computer_manufacturer_brand, /business/employer, /business/business_operation]
+Matched words:            [com.textrazor.annotations.Word@67e2d983]
+Source Entity:            Motorola
+
+I liked a @YouTube video https://t.co/nKQSCSYqFe Motorola Droid TURBO 2 How to turn on or enable SAFE MODE to troubleshoot aka Moto X
+ -------------------------------------------------------
+Matched Entity ID:        Droid Turbo 2
+Freebase Entity ID:       
+DBPedia Entity Type:      [Device]
+Wikidata Entity ID:       Q22907951
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Droid_Turbo_2
+Freebase Entity Type:     [/business/consumer_product]
+Matched words:            [com.textrazor.annotations.Word@4ae3c1cd, com.textrazor.annotations.Word@29f69090, com.textrazor.annotations.Word@568bf312]
+Source Entity:            Droid TURBO 2
+
+Matched Entity ID:        Motorola Droid
+Freebase Entity ID:       /m/080k_3m
+DBPedia Entity Type:      [Device]
+Wikidata Entity ID:       Q579988
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Motorola_Droid
+Freebase Entity Type:     [/business/consumer_product]
+Matched words:            [com.textrazor.annotations.Word@ca263c2, com.textrazor.annotations.Word@4ae3c1cd]
+Source Entity:            Motorola Droid
+
+Matched Entity ID:        Motorola Mobility
+Freebase Entity ID:       /m/08v9g7
+DBPedia Entity Type:      [Agent, Organisation, Company]
+Wikidata Entity ID:       Q934853
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Motorola_Mobility
+Freebase Entity Type:     [/organization/organization, /business/consumer_company, /business/acquisition, /law/litigant, /computer/computer_manufacturer_brand, /business/employer, /business/business_operation]
+Matched words:            [com.textrazor.annotations.Word@ca263c2]
+Source Entity:            Motorola
+
+Matched Entity ID:        2
+Freebase Entity ID:       null
+DBPedia Entity Type:      [Number]
+Wikidata Entity ID:       null
+WikiPedia Entity URL:     
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@568bf312]
+Source Entity:            2
+
+Matched Entity ID:        Motorola Moto
+Freebase Entity ID:       /m/0100fwvq
+DBPedia Entity Type:      null
+Wikidata Entity ID:       Q16877475
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Motorola_Moto
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@589b3632, com.textrazor.annotations.Word@45f45fa1]
+Source Entity:            Moto X
+
+Matched Entity ID:        https://t.co/nKQSCSYqFe
+Freebase Entity ID:       null
+DBPedia Entity Type:      [URL]
+Wikidata Entity ID:       null
+WikiPedia Entity URL:     
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@4c6e276e]
+Source Entity:            https://t.co/nKQSCSYqFe
+
+Matched Entity ID:        Safe mode
+Freebase Entity ID:       /m/060y4s
+DBPedia Entity Type:      [Work, Software]
+Wikidata Entity ID:       Q320411
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Safe_mode
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@534df152, com.textrazor.annotations.Word@52e677af]
+Source Entity:            SAFE MODE
+
+Matched Entity ID:        Droid Turbo
+Freebase Entity ID:       /m/01269rmc
+DBPedia Entity Type:      [Device]
+Wikidata Entity ID:       Q18388762
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Droid_Turbo
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@ca263c2, com.textrazor.annotations.Word@4ae3c1cd, com.textrazor.annotations.Word@29f69090]
+Source Entity:            Motorola Droid TURBO
+
+Dear @Moto_Support, when Moto X Play will be updated to Android 7.1.2, thus solving the "battery shutdown bug"? I a… https://t.co/FcSodmnkKA
+ -------------------------------------------------------
+Matched Entity ID:        https://t.co/FcSodmnkKA
+Freebase Entity ID:       null
+DBPedia Entity Type:      [URL]
+Wikidata Entity ID:       null
+WikiPedia Entity URL:     
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@8e0379d]
+Source Entity:            https://t.co/FcSodmnkKA
+
+Matched Entity ID:        Moto X Play
+Freebase Entity ID:       
+DBPedia Entity Type:      [Device]
+Wikidata Entity ID:       Q20869970
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Moto_X_Play
+Freebase Entity Type:     [/business/consumer_product]
+Matched words:            [com.textrazor.annotations.Word@341b80b2, com.textrazor.annotations.Word@55a1c291, com.textrazor.annotations.Word@2145433b]
+Source Entity:            Moto X Play
+
+Matched Entity ID:        Moto X (2nd generation)
+Freebase Entity ID:       /m/011smwrd
+DBPedia Entity Type:      [Device]
+Wikidata Entity ID:       Q18011358
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Moto_X_(2nd_generation)
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@341b80b2, com.textrazor.annotations.Word@55a1c291]
+Source Entity:            Moto X
+
+Matched Entity ID:        Android (operating system)
+Freebase Entity ID:       /m/02wxtgw
+DBPedia Entity Type:      [Work, Software]
+Wikidata Entity ID:       Q94
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Android_(operating_system)
+Freebase Entity Type:     [/computer/operating_system, /business/brand, /tv/tv_subject, /computer/software, /cvg/cvg_platform]
+Matched words:            [com.textrazor.annotations.Word@2890c451]
+Source Entity:            Android
+
+Motorola MOTO X XT1060 16GB Verizon Unlocked – 4G LTE Smartphone w/ 10MP Camera – Black (Certified Refurbished)… https://t.co/TX5WSzlKz2
+ -------------------------------------------------------
+Matched Entity ID:        Camera
+Freebase Entity ID:       /m/0dv5r
+DBPedia Entity Type:      null
+Wikidata Entity ID:       Q15328
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Camera
+Freebase Entity Type:     [/fictional_universe/character_species, /law/invention, /business/industry, /book/periodical_subject, /book/book_subject, /business/product_category, /organization/club_interest]
+Matched words:            [com.textrazor.annotations.Word@1b083826]
+Source Entity:            Camera
+
+Matched Entity ID:        Smartphone
+Freebase Entity ID:       /m/0169zh
+DBPedia Entity Type:      null
+Wikidata Entity ID:       Q22645
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Smartphone
+Freebase Entity Type:     [/book/book_subject, /computer/computing_platform, /business/product_category, /business/competitive_space, /cvg/cvg_platform, /internet/website_category]
+Matched words:            [com.textrazor.annotations.Word@105fece7]
+Source Entity:            Smartphone
+
+Matched Entity ID:        LTE (telecommunication)
+Freebase Entity ID:       /m/026kws9
+DBPedia Entity Type:      null
+Wikidata Entity ID:       Q79703
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/LTE_(telecommunication)
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@3ec300f1, com.textrazor.annotations.Word@482cd91f]
+Source Entity:            4G LTE
+
+Matched Entity ID:        Verizon Wireless
+Freebase Entity ID:       /m/04mxngz
+DBPedia Entity Type:      [Agent, Organisation, Company]
+Wikidata Entity ID:       Q919641
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Verizon_Wireless
+Freebase Entity Type:     [/business/business_location, /organization/organization, /business/employer, /business/business_operation, /business/consumer_company, /business/consumer_product]
+Matched words:            [com.textrazor.annotations.Word@123f1134]
+Source Entity:            Verizon
+
+Matched Entity ID:        Motorola Mobility
+Freebase Entity ID:       /m/08v9g7
+DBPedia Entity Type:      [Agent, Organisation, Company]
+Wikidata Entity ID:       Q934853
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Motorola_Mobility
+Freebase Entity Type:     [/organization/organization, /business/consumer_company, /business/acquisition, /law/litigant, /computer/computer_manufacturer_brand, /business/employer, /business/business_operation]
+Matched words:            [com.textrazor.annotations.Word@7d68ef40]
+Source Entity:            Motorola
+
+Matched Entity ID:        Moto X (1st generation)
+Freebase Entity ID:       /m/0vxfvd0
+DBPedia Entity Type:      [Device]
+Wikidata Entity ID:       Q14173241
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Moto_X_(1st_generation)
+Freebase Entity Type:     [/business/consumer_product]
+Matched words:            [com.textrazor.annotations.Word@5b0abc94, com.textrazor.annotations.Word@75c072cb]
+Source Entity:            MOTO X
+
+Matched Entity ID:        4G
+Freebase Entity ID:       /m/02g9ds
+DBPedia Entity Type:      null
+Wikidata Entity ID:       Q79697
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/4G
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@3ec300f1]
+Source Entity:            4G
+
+Matched Entity ID:        Motorola Moto
+Freebase Entity ID:       /m/0100fwvq
+DBPedia Entity Type:      null
+Wikidata Entity ID:       Q16877475
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Motorola_Moto
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@7d68ef40, com.textrazor.annotations.Word@5b0abc94]
+Source Entity:            Motorola MOTO
+
+Matched Entity ID:        https://t.co/TX5WSzlKz2
+Freebase Entity ID:       null
+DBPedia Entity Type:      [URL]
+Wikidata Entity ID:       null
+WikiPedia Entity URL:     
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@1f1c7bf6]
+Source Entity:            https://t.co/TX5WSzlKz2
+
+Prime members can get a free Amazon Echo when they buy an unlocked Moto X right now - Business Insider https://t.co/s2oXrN3tE1
+ -------------------------------------------------------
+Matched Entity ID:        https://t.co/s2oXrN3tE1
+Freebase Entity ID:       null
+DBPedia Entity Type:      [URL]
+Wikidata Entity ID:       null
+WikiPedia Entity URL:     
+Freebase Entity Type:     null
+Matched words:            [com.textrazor.annotations.Word@2b546384]
+Source Entity:            https://t.co/s2oXrN3tE1
+
+Matched Entity ID:        Amazon Echo
+Freebase Entity ID:       /m/0128447t
+DBPedia Entity Type:      [Device, InformationAppliance]
+Wikidata Entity ID:       Q18511815
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Amazon_Echo
+Freebase Entity Type:     [/organization/organization, /computer/software]
+Matched words:            [com.textrazor.annotations.Word@5d740a0f, com.textrazor.annotations.Word@214b199c]
+Source Entity:            Amazon Echo
+
+Matched Entity ID:        Business Insider
+Freebase Entity ID:       /m/09gd5v1
+DBPedia Entity Type:      [Work, Website]
+Wikidata Entity ID:       Q286707
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Business_Insider
+Freebase Entity Type:     [/internet/website]
+Matched words:            [com.textrazor.annotations.Word@20d3d15a, com.textrazor.annotations.Word@2893de87]
+Source Entity:            Business Insider
+
+Prime members can get an Amazon Echo when they buy an unlocked Moto X right now
+ -------------------------------------------------------
+Matched Entity ID:        Amazon Echo
+Freebase Entity ID:       /m/0128447t
+DBPedia Entity Type:      [Device, InformationAppliance]
+Wikidata Entity ID:       Q18511815
+WikiPedia Entity URL:     http://en.wikipedia.org/wiki/Amazon_Echo
+Freebase Entity Type:     [/organization/organization, /computer/software]
+Matched words:            [com.textrazor.annotations.Word@2c34f934, com.textrazor.annotations.Word@12d3a4e9]
+Source Entity:            Amazon Echo
+
